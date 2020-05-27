@@ -15,3 +15,11 @@ Find out partition name from Dash > `disks`.
 $ sudo ntfsfix /dev/sdXY # XY is the partition, e.g. a2 (/dev/sda2) or b1 (/dev/sdb1)
 
 ```
+
+### Zoom in-out terminal
+
+```text
+Zoom IN            :  Ctrl Shift +  
+Zoom Out           :  Ctrl - 
+Neutral ( 100% )   :  Ctrl ) 
+```
