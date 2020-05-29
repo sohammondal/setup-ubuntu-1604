@@ -6,6 +6,8 @@ sudo apt upgrade -y
 
 sudo apt-get install curl -y
 
-sudo apt-get install ubuntu-restricted-extras
+sudo apt-get install ubuntu-restricted-extras -y
 
-sudo apt install unity-tweak-tool
+sudo apt install unity-tweak-tool -y
+
+sudo apt install qbittorrent -y
