@@ -4,6 +4,6 @@ sudo apt update -y
 
 sudo apt install snapd -y
 
-sudo snap install hello-
+sudo snap install hello-world
 
 hello-world
