@@ -13,4 +13,7 @@ sudo apt-get install apt-transport-https -y
 sudo apt-get update -y
 sudo apt-get install code -y  # or code-insiders
 
+# Fix error - "Visual Studio Code is unable to watch for file changes in this large workspace" (error ENOSPC)
 
+echo 'fs.inotify.max_user_watches=524288' | sudo tee -a  /etc/sysctl.conf
+sudo sysctl -p
