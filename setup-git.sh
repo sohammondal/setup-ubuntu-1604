@@ -15,7 +15,7 @@ name =
 email = 
 EOF
 
-cat <<EOF > ~/.gitconfig-test
+cat <<EOF > ~/.gitconfig
 [includeIf "gitdir:~/Work/"]
   path = .gitconfig-work
 
