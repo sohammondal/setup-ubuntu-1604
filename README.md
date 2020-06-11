@@ -16,6 +16,10 @@ $ sudo ntfsfix /dev/sdXY # XY is the partition, e.g. a2 (/dev/sda2) or b1 (/dev/
 
 ```
 
+### Headphones not working
+
+[Reference](https://askubuntu.com/questions/914608/ubuntu-16-04-headphones-are-not-working)
+
 ### Zoom in-out terminal
 
 ```text
