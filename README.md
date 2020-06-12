@@ -20,6 +20,12 @@ $ sudo ntfsfix /dev/sdXY # XY is the partition, e.g. a2 (/dev/sda2) or b1 (/dev/
 
 [Reference](https://askubuntu.com/questions/914608/ubuntu-16-04-headphones-are-not-working)
 
+### Background
+
+- [Wallpaper Slideshow](https://askubuntu.com/questions/134/how-do-i-create-a-desktop-wallpaper-slideshow)
+- [MacOS Wallpapers](https://photos.google.com/share/AF1QipNNQyeVrqxBdNmBkq9ILswizuj-RYJFNt5GlxJZ90Y6hx0okrVSLKSnmFFbX7j5Mg?key=RV8tSXVJVGdfS1RIQUI0Q3RZZVhlTmw0WmhFZ2V3)
+- 
+
 ### Zoom in-out terminal
 
 ```text
